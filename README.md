@@ -37,7 +37,7 @@ At the moment, this repository is acting as a place to put research and planned 
   - Calculus (where analytical solutions are possible)
   - Grid/Graph/Coordinate systems
     - Including pathfinding algorithms
-  - Combinotronics/Permutations
+  - Combinatorics/Permutations
 
 # Possible Libraries/Utilities
 
